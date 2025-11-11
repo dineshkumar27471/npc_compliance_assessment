@@ -1,0 +1,27 @@
+/* [project]/app/fontproject_ebe0b899.module.css [app-client] (css) */
+@font-face {
+  font-family: fontProject;
+  src: url("../media/Lusail+ Regular-s.p.6f79c4f9.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: fontProject Fallback;
+  src: local(Arial);
+  ascent-override: 129.68%;
+  descent-override: 61.75%;
+  line-gap-override: 0.0%;
+  size-adjust: 80.97%;
+}
+
+.fontproject_ebe0b899-module__4mDnMq__className {
+  font-family: fontProject, fontProject Fallback, Inter, Arial, sans-serif;
+  font-weight: 400;
+}
+
+.fontproject_ebe0b899-module__4mDnMq__variable {
+  --font-lusail: "fontProject", "fontProject Fallback", Inter, Arial, sans-serif;
+}
+
+/*# sourceMappingURL=app_fontproject_ebe0b899_module_css_bad6b30c._.single.css.map*/

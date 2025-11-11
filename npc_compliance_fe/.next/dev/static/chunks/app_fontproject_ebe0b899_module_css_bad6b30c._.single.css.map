@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/fontproject_ebe0b899.module.css"],"sourcesContent":["@font-face {\n    \n    font-family: 'fontProject';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/Lusail+%20Regular.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    font-weight: 400;\n}\n\n@font-face {\n    font-family: 'fontProject Fallback';\n    src: local(\"Arial\");\n    ascent-override: 129.68%;\ndescent-override: 61.75%;\nline-gap-override: 0.00%;\nsize-adjust: 80.97%;\n\n}\n\n.className {\n    font-family: 'fontProject', 'fontProject Fallback', Inter, Arial, sans-serif;\n    font-weight: 400;\n\n}\n.variable {\n    --font-lusail: 'fontProject', 'fontProject Fallback', Inter, Arial, sans-serif;\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;AAQA;;;;;;;;;AAUA;;;;;AAKA"}}]
+}
